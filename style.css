@@ -2,10 +2,12 @@ h1 {
     font-family: 'Abril Fatface', cursive;
     text-align: center;
 }
+
 h2 {
     text-align: center;
     border-radius: 50%;
 }
+
 img {
     border-radius: 50%;
 }
