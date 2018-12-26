@@ -21,5 +21,10 @@ body {
 }
 
 footer {
-    background-color: grey;
+    background-color: #000B3B;
+    height: 140px;
+}
+
+p.footer {
+    color: gray;
 }
