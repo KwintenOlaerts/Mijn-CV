@@ -28,3 +28,8 @@ footer {
 p.footer {
     color: gray;
 }
+
+@media (min-width: 768px) {
+    p {text-align: left
+    }
+}
